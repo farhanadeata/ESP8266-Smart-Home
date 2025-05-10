@@ -33,7 +33,7 @@ Here is a list of the hardware components required to run this project:
 
 - Arduino IDE 
 - sinric pro account register here (https://sinric.pro/)
-- MySQL
+
 
 ### ArduinoIDE
 1. Open Library Manager (*Tools / Manage Libraries*)  
