@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Build-passing-brightgreen?style=flat-square" alt="Build Status">
     
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
+
+  [![Platform ESP8266](https://img.shields.io/badge/Platform-Espressif8266-orange)](#)
 </p>
 <br>
 
@@ -23,12 +25,31 @@ Here is a list of the hardware components required to run this project:
 | components              | Amount  |
 |-----------------------|---------|
 | ESP8266           | 1       |
-| relay 3 Channel  | 1|
+| relay 4 Channel  | 1|
 | Jumper Kabel           | cek skema       |
 
-## 📸 Project Gallery
+## 🚀 Quick Start  
 
-![image](https://github.com/user-attachments/assets/eeb4fb3c-4b71-49ba-a1c7-6f074c0ff4f3)
+### Prerequisites  
+
+- Arduino IDE 
+- sinric pro account register here (https://sinric.pro/)
+- MySQL
+
+### ArduinoIDE
+1. Open Library Manager (*Tools / Manage Libraries*)  
+2. Search for *SinricPro* and click *Install*  
+3. Repeat step 2 for all [dependent libraries](#dependencies)!
+
+![image](https://github.com/user-attachments/assets/db8f9210-eb86-4127-b539-9933c6478bad)
+
+
+## 📸 project Skema
+
+![image](https://github.com/user-attachments/assets/390fe136-cda4-4cbb-bfc1-138e1aa85313)
+
+
+<p align="center"> thx for https://github.com/sinricpro </p>
 
 
 
