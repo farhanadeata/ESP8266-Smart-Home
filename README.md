@@ -12,7 +12,7 @@
     
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
 
-  [![Platform ESP8266](https://img.shields.io/badge/Platform-Espressif8266-orange)](#)
+  <img src="https://img.shields.io/badge/Platform-Espressif8266-orange" alt="License">
 </p>
 <br>
 
