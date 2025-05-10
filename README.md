@@ -10,9 +10,8 @@
  
   <img src="https://img.shields.io/badge/Build-passing-brightgreen?style=flat-square" alt="Build Status">
     
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
 
-  <img src="https://img.shields.io/badge/Platform-Espressif8266-orange" alt="License">
+  <img src="https://img.shields.io/badge/Platform-Espressif8266-orange?style=flat-square" alt="License">
 </p>
 <br>
 
